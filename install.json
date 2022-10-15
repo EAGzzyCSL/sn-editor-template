@@ -1,0 +1,13 @@
+{
+  "identifier": "eagzzycsl.standardnotes.sn-editor-template",
+  "name": "SN-editor-template",
+  "description": "Editor for Standard Notes use editor-template",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "marketing_url": "https://www.github.com/eagzzycsl/sn-editor-template",
+  "version": "0.0.1",
+  "url": "https://eagzzycsl.github.io/sn-editor-template/hosted/index.html",
+  "download_url": "https://eagzzycsl.github.io/sn-editor-template/pkg.zip",
+  "latest_url": "https://eagzzycsl.github.io/sn-editor-template/install.json",
+  "thumbnail_url": "https://eagzzycsl.github.io/sn-editor-template/thumbnail.jpg"
+}
